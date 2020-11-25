@@ -27,7 +27,7 @@
 
 **netflix-clone quick view**
 
-![Recordit GIF](https://recordit.co/ayr2C0vWHM)
+![Recordit GIF](https://recordit.co/djKa8hlLzw)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/charlesZ-byte/Self_Driving_Car.git`
+- Clone this repo to your local machine using `https://github.com/charlesZ-byte/netflix-clonev1.git`
 
 ### Setup
 
