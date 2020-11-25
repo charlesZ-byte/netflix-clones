@@ -1,70 +1,136 @@
-# Getting Started with Create React App
+<img src="./public/logo.svg" title="Netflix-clone" alt="Netflix-clone"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
-## Available Scripts
+# Netclix-Clone v1
 
-In the project directory, you can run:
+> React.js
 
-### `npm start`
+> html5,css
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> firebase deployment
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+> website link <a href="https://netflix-clone-2c6c0.web.app/" target="_blank">`https://netflix-clone-2c6c0.web.app/`</a>
 
-### `npm test`
+**_Project peak _**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![INSERT YOUR GRAPHIC HERE](netflix-clone.jpg)]()
 
-### `npm run build`
+- This application (a Netflix clone) was built using React (Custom Hooks, Context), Firebase & Styled Components. I have built the following pages within this application: browse & lastly the homepage.
+- I used compound components (just a design pattern) to build my components, and there's over 10 examples as to how these are used. The styling is all handled via styled components. Using compound components made my actual dumb components really easy to test.
+- Used firbase to deploy and github for latest version update
+- Used TMDB API to get up to date movie from nextflix
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> GIF Tools
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Used <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**netflix-clone quick view**
 
-### `npm run eject`
+![Recordit GIF](https://recordit.co/ayr2C0vWHM)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Table of Contents (Optional)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> If your `README` has a lot of info, section headers might be nice.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Team](#team)
+- [FAQ](#faq)
+- [Support](#support)
+- [License](#license)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- With a few lib set up we can start!!
 
-### Code Splitting
+### Clone
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Clone this repo to your local machine using `https://github.com/charlesZ-byte/Self_Driving_Car.git`
 
-### Analyzing the Bundle Size
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- If you want more syntax highlighting, format your code like this:
 
-### Making a Progressive Web App
+> update and install this package first
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```shell
+$ brew update
+```
 
-### Advanced Configuration
+> now install npm and bower packages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```shell
+$ npm install
+$ bower installpip install torch torchvision
+```
 
-### Deployment
+> Use npm command we are good to go
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```shell
+$ npm start
+```
 
-### `npm run build` fails to minify
+- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## Features
+
+- Have Ease-in and out animation Navigation bar
+- Hover movie pictures
+- API get trailer for each movie and display it
+- All movie up to date compare to netflix
+
+---
+
+## Contributing
+
+> To get started...
+
+### Step 1
+
+- **Option 1**
+
+  - 🍴 Fork this repo!
+
+- **Option 2**
+  - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+
+### Step 2
+
+- **HACK AWAY!** 🔨🔨🔨
+
+### Step 3
+
+- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+
+---
+
+## FAQ
+
+- **How do check this webapplication?**
+  - It is easy, go to top and click the webapplication link
+
+---
+
+## Support
+
+Reach out to me at one of the following places!
+
+- Website at <a href="http://www.charleszhang0502.com" target="_blank">`www.charleszhang0502.com`</a>
+- LinkedIn at <a href="www.linkedin.com/in/shuming-zhang52" target="_blank">`www.linkedin.com/in/shuming-zhang52`</a>
+
+---
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
