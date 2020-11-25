@@ -27,7 +27,7 @@
 
 **netflix-clone quick view**
 
-![Recordit GIF](https://recordit.co/djKa8hlLzw.gif)
+![Recordit GIF](http://g.recordit.co/djKa8hlLzw.gif)
 
 ---
 
